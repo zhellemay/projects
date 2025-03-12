@@ -22,6 +22,7 @@ def postorder_traversal(root):
         postorder_traversal(root.right)
         print(root.value, end=" ")
 
+
 root = TreeNode(1)
 root.left = TreeNode(2)
 root.right = TreeNode(3)

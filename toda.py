@@ -300,4 +300,3 @@ def passengers_page():
 start_page()
 root.mainloop()
 
-

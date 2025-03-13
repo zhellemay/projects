@@ -26,6 +26,4 @@ class LinkedList:
 
 
 if __name__ == '__main__':
-    print(fibonacci(8))
-
-    LinkedList = LinkedList(None)
+    print(fibonacci(11))
